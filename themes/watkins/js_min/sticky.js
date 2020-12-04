@@ -1,0 +1,1 @@
+jQuery(window).scroll(function(){jQuery(document).scrollTop()>50?jQuery("#sticktacular").addClass("shrink"):jQuery("#sticktacular").removeClass("shrink")});

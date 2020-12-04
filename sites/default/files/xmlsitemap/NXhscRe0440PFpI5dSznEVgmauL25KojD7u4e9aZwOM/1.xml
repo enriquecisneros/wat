@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://watkinsasphaltpaving.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://watkinsasphaltpaving.com/Home</loc><lastmod>2018-10-28T20:35Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://watkinsasphaltpaving.com/Projects</loc><lastmod>2018-10-28T20:34Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/Services/Asphalt-Milling-Demolition-Recycling</loc><lastmod>2018-10-17T23:42Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/Services/Concrete-Curb-and-Gutter</loc><lastmod>2018-10-17T23:43Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/Services/ABC-Stone-Installation-Compaction-and-Fine-Grading</loc><lastmod>2018-10-17T23:44Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/Services/Asphalt-Paving-Resurfacing-and-Striping</loc><lastmod>2018-10-17T23:45Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/Contact-Us</loc><lastmod>2018-10-28T20:35Z</lastmod><changefreq>always</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/About</loc><lastmod>2018-10-28T20:34Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>https://watkinsasphaltpaving.com/Services</loc><lastmod>2018-10-28T20:34Z</lastmod><changefreq>hourly</changefreq></url>
+</urlset>

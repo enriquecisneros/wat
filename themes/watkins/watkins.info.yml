@@ -1,0 +1,34 @@
+core: 8.x
+type: theme
+base theme: bootstrap
+
+name: 'Watkins Asphalt'
+description: 'Author Rick Cisneros'
+package: 'Bootstrap'
+
+regions:
+  logo: 'Main Logo'
+  header_right_top: "Header Right Top"
+  header_right_bottom: 'Header Right Bottom'
+  slider: 'Front Page Slider'
+  slogan: 'Front Page Slogan'
+  whoweare: 'Front Page Who We Are'
+  whyus:    'Front Page Why Us'
+  whatwedo: 'Front Page What We Do'
+  testimonials:  'Front Page testimonials'
+  title: 'Page Title'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  prefooter1: 'Prefooter Box 1'
+  prefooter2: 'Prefooter Box 2'
+  prefooter3: 'Prefooter Box 3'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+libraries:
+  - 'watkins/global-styling'
+  - 'watkins/bootstrap-scripts'
